@@ -8,6 +8,12 @@
   <name>onlineShopping Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
+  <!-- Linking Backend -->
+  <dependency>
+   <groupId>net.pankaj</groupId>
+  <artifactId>backened</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  </dependency>
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
